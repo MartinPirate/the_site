@@ -13,7 +13,7 @@ My approach
 
 6. Cost estimation per floor and whole project --cost of the whole project is calculated in dynamically on the Controller/repository.
 
-7.SMS alert to customer for pending payments and on receiving payments(Done using Alerts and Notifications). Same as Rent collection alert to owner.
+7.SMS alert to customer for pending payments and on receiving payments(Done using Alerts and Notifications). Same as Rent collection alert to owner on a certain date should be done on shedulers/cron jobs.
 
 8. Reports and details of Income/Expenses/Purchasing..To be generated in real time on the UI.
 
